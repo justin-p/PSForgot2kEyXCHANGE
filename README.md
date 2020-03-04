@@ -19,4 +19,4 @@ PS> Invoke-Forgot2kEyXCHANG -Server 'https://webmail.domain.tld' -User 'Steve.Mc
 
 # Contributing
 
-Feel free to open issues, contribute and submit your Pull Requests. You can also ping me on Twitter (@justin-p)
+Feel free to open issues, contribute and submit your Pull Requests. You can also ping me on Twitter (@JustinPerdok)
